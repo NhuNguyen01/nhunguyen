@@ -1,0 +1,11 @@
+<html>
+<body>
+
+
+<form>
+<label> Họ và tên: <input type= "text" name ="txtTen> </label> <br>
+
+
+</form>
+</body>
+</html>
