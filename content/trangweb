@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel ="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+    <div class="container">
+           <div class="header"> </div>
+           <div class="menu"> 
+                <a href="content/gioithieu.html" target="noidung"> Giới Thiệu</a>
+                <a href="content/tkb.html" target="noidung">Thời Khoá Biểu </a>
+                <a href="content/tinhoc12.html" target="noidung">Chương trình Tin học 12 </a>
+                <a href="content/nganhnghe.html" target="noidung">Ngành nghề yêu thích </a>
+                <a href="https://hieuveban.ueh.edu.vn/ket-qua-mbti/2d887f08-15d9-4e70-1075-08de52afccee" target="noidung"> MBTI </a>
+             </div>
+           <div class="content">  
+             <iframe name="noidung" > </iframe>
+           </div> 
+           <div class="footer"> </div>
+     </div> 
+  
+  </body>
+</html>
